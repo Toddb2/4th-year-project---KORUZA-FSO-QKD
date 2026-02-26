@@ -2,7 +2,8 @@
 
 **Experimental Characterisation of a Terrestrial Free-Space Optical Link for Quantum Key Distribution**
 
-*Todd Blacklaw — Heriot-Watt University, B.Sc. Physics, Year 4 *
+Todd Blacklaw — Heriot-Watt University, B.Sc. Physics, Year 4 
+
 *Supervisor: Alessandro Fedrizzi*
 
 ---
