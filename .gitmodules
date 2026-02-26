@@ -1,0 +1,6 @@
+[submodule "atmospheric-modelling/Libradtran-HW"]
+	path = atmospheric-modelling/Libradtran-HW
+	url = https://github.com/Toddb2/Libradtran-HW.git
+[submodule "hardware/koruza-pi"]
+	path = hardware/koruza-pi
+	url = https://github.com/Toddb2/koruza-pi.git
